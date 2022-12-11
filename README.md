@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Furkan675
+- 👋 Hi, I’m @Furkani675
 - 👀 I’m interested in speedrunning, coding and speedcubing.
 - 🌱 I’m currently learning HTML
 - 📫 How to reach me... (just dont)
