@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Furkani675
 - 👀 I’m interested in speedrunning, coding and speedcubing.
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning web scraping
 - 📫 How to reach me... (just dont)
 
 <!---
